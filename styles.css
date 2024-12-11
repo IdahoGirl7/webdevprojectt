@@ -1,0 +1,15 @@
+/* control x is copy and delete */
+body{
+    font-family: 'Comic Sans MS', papyrus, serif;
+    color: darkcyan;
+    background-color: aqua;
+}
+h1{
+    font-size: xx-large;
+    color: azure;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+img{
+    border: 10px red solid;
+    padding: 10px black;
+}
